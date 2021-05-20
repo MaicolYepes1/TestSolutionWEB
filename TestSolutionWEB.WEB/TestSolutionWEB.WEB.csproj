@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestSolutionWE.IOC\TestSolutionWE.IOC.csproj" />
+    <ProjectReference Include="..\TestSolutionWEB.MODELS\TestSolutionWEB.MODELS.csproj" />
+    <ProjectReference Include="..\TestSolutionWEB.SERVICES\TestSolutionWEB.SERVICES.csproj" />
+  </ItemGroup>
+
+</Project>

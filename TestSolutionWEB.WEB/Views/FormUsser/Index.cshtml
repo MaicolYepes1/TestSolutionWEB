@@ -1,0 +1,64 @@
+﻿@model TestSolutionWEB.MODELS.Loads.UsserLoad
+<head>
+    <link rel="stylesheet" href="~/css/IndexCss/Index.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="~/js/IndexJs/Formulario.js"></script>
+</head>
+
+<body>
+    <div class="centerImg">
+        <img src="~/img/sigma-logo.png" />
+    </div>
+    <div class="centerA">
+        <a class="aTitle">Prueba de desarrollo Sigma</a>
+    </div>
+    <div class="divLorem">
+        <a class="aLorem">
+            Lorem lpsum is simply dummy text of the priting and typesetting industry.
+            Lorem lpsum has been the industry's standard dummy text ever since the 1500s,
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        </a>
+    </div>
+    <div class="row" style="padding-top: 40px">
+        <div class="col-xl-6">
+            <img src="~/img/sigma-image.png" style="width: 100%" />
+        </div>
+        <div class="col-xl-6" style="padding-top: 30px;">
+            <form class="formUs" asp-action="Save" method="post">
+                <div class="form-group">
+                    <label class="label" for="cities">Departamento*</label>
+                    <select class="form-control" id="deparment" onchange="changeFunc()" name="Department" required asp-for="Department">
+                        <option selected disabled value="">Seleccionar...</option>
+                    </select>
+                    <span asp-validation-for="@Model.Department" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="label" for="cities">Ciudad*</label>
+                    <select class="form-control" id="city" name="City" required asp-for="City">
+                        <option selected disabled value="">Seleccionar...</option>
+                    </select>
+                    <span asp-validation-for="@Model.City" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="label" for="name">Nombre*</label>
+                    <input type="text" class="form-control" id="name" name="Name" placeholder="Pepito de Jesús" required asp-for="Name">
+                </div>
+                <span asp-validation-for="@Model.Name" class="text-danger"></span>
+                <div class="form-group">
+                    <label class="label" for="email">Correo*</label>
+                    <input type="email" class="form-control" id="email" name="Mail" aria-describedby="emailHelp" placeholder="Pepitodejesus@gmail.com" required asp-for="Mail">
+                    <span asp-validation-for="@Model.Mail" class="text-danger"></span>
+                </div>
+                <div style="text-align: center;"> <button type="submit" class="btn btnSumbit">Enviar</button></div>
+            </form>
+        </div>
+    </div>
+    @if (ViewBag.Alert != null)
+    {
+        <script>
+        alert("@ViewBag.Alert");
+        </script>
+    }
+</body>
+

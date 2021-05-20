@@ -1,0 +1,45 @@
+﻿.centerImg {
+    margin: auto;
+    width: 30%;
+    padding: 30px;
+}
+
+.centerA {
+    margin: auto;
+    width: 37%;
+}
+
+.divLorem {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.aLorem {
+    font-family: 'Crimson Pro', serif;
+    font-size: 23px;
+    text-transform: none;
+    color: gray;
+    font-weight: 600;
+}
+
+.aTitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large
+}
+
+.label {
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+}
+
+.formUs {
+    border: 2px solid gray;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+.btnSumbit {
+    background-color: #EC3F7B;
+    color: white;
+    width: 100px;
+}

@@ -1,0 +1,15 @@
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\bin\Debug\net5.0\TestSolutionWEB.PROVIDERS.deps.json
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\bin\Debug\net5.0\TestSolutionWEB.PROVIDERS.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\bin\Debug\net5.0\ref\TestSolutionWEB.PROVIDERS.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\bin\Debug\net5.0\TestSolutionWEB.PROVIDERS.pdb
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\bin\Debug\net5.0\TestSolutionWEB.MODELS.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\bin\Debug\net5.0\TestSolutionWEB.MODELS.pdb
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.csprojAssemblyReference.cache
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.csproj.CopyComplete
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\ref\TestSolutionWEB.PROVIDERS.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.PROVIDERS\obj\Debug\net5.0\TestSolutionWEB.PROVIDERS.pdb

@@ -1,0 +1,17 @@
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\TestSolutionWEB.SERVICES.deps.json
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\TestSolutionWEB.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\ref\TestSolutionWEB.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\TestSolutionWEB.SERVICES.pdb
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\TestSolutionWEB.MODELS.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\TestSolutionWEB.PROVIDERS.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\TestSolutionWEB.MODELS.pdb
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\bin\Debug\net5.0\TestSolutionWEB.PROVIDERS.pdb
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.csprojAssemblyReference.cache
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.csproj.CopyComplete
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\ref\TestSolutionWEB.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionWEB\TestSolutionWEB.SERVICES\obj\Debug\net5.0\TestSolutionWEB.SERVICES.pdb
